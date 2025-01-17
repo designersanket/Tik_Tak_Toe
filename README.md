@@ -1,16 +1,11 @@
+
 # **Tic-Tac-Toe Game**
-Description:
-Tic-Tac-Toe is a classic two-player game where players try to align three marks ("X" or "O") in a row on a 3x3 grid. The game ends when one player wins or the grid is filled without a winner. This project includes two modes: one for text-based gameplay and another with a GUI built using Tkinter.
+A simple Tic-Tac-Toe game built using Python's Tkinter library. Players take turns to place "X" or "O" on a 3x3 grid, and the game detects the winner.
 
-# **How to Play:**
-Text-based Mode:
-
-Choose option 1 when prompted.
-Enter numbers 1 to 9 to select grid positions for your mark.
-GUI Mode:
-
-Choose option 2 when prompted.
-Click on the grid to place your mark.
-Technologies Used:
-Python
-Tkinter (for GUI)
+# **Features:**
+Two-player mode.
+Winner detection.
+GUI interface using Tkinter.
+# **How to Play**
+Player "X" and Player "O" take turns.
+The first player to get three of their marks in a row, column, or diagonal wins.
